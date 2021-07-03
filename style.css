@@ -9,3 +9,15 @@ h1{
 .span{
     color: orange;
 }
+
+.section1{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding: 6%;
+}
+.half-width img{
+    width: 100%;
+}
